@@ -77,9 +77,9 @@ Finally compare this notebook with deeper data underestaning and data engineerin
 | XGBoost (orginal  preprocessing)            | 0.366243        | 
 | Deep Learning (orginal preprocessing)      | 0.31196              | 
 | XGBoost ("clever"  preprocessing)      |  0.14302              | 
-| StackingRegressor  ("clever"  preprocessing)      |   0.13332              | 
+| StackingRegressor  (orginal  preprocessing)      |   0.13332              | 
 
-Feature engineering led to consistent improvements across models. The engineered features contributed to better class separation and increased model confidence.
+
 
 ---
 
